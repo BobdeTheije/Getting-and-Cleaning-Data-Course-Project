@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 Peer graded assignement week 4 Getting and Cleaning Data Course
 
-Files Included:
+## Files Included:
 
 README.md
 run_analyses.R -- R script
